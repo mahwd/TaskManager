@@ -1,0 +1,6 @@
+c:\users\hesen\documents\visual studio 2017\Projects\taskManager\taskManager\bin\Debug\taskManager.exe.config
+c:\users\hesen\documents\visual studio 2017\Projects\taskManager\taskManager\bin\Debug\taskManager.exe
+c:\users\hesen\documents\visual studio 2017\Projects\taskManager\taskManager\bin\Debug\taskManager.pdb
+c:\users\hesen\documents\visual studio 2017\Projects\taskManager\taskManager\obj\Debug\taskManager.csprojResolveAssemblyReference.cache
+c:\users\hesen\documents\visual studio 2017\Projects\taskManager\taskManager\obj\Debug\taskManager.exe
+c:\users\hesen\documents\visual studio 2017\Projects\taskManager\taskManager\obj\Debug\taskManager.pdb
